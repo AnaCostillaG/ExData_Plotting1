@@ -1,3 +1,27 @@
+#Peer asignment for exploratory data analysis couse project.
+
+Here you can find the output and the source code to replicate the four different plots required for the peer assesment 1. Below you will also find the original instructions
+
+### Plot 1 (Plot1.R)
+
+
+![plot of chunk unnamed-chunk-2](plot1.png) 
+
+
+### Plot 2 (Plot2.R)
+
+![plot of chunk unnamed-chunk-3](plot2.png) 
+
+
+### Plot 3 (Plot3.R)
+
+![plot of chunk unnamed-chunk-4](plot3.png) 
+
+
+### Plot 4 (Plot4.R)
+
+![plot of chunk unnamed-chunk-5](plot4.png) 
+
 ## Introduction
 
 This assignment uses data from
